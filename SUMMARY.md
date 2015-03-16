@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
 * Disaster Recovery
-* Reliability
+* Disaster Recovery
    * Database Replication
    * Active-Active
    * Active-Passive
