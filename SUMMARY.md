@@ -13,4 +13,5 @@
    * Dark Reads
    * Feature Flags
    * Traffic Shaping
+   * Flat-file serialization
 
