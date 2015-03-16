@@ -14,5 +14,5 @@
    * Feature Flags
    * Traffic Shaping
    * Flat-file serialization
-* Service Patterns
+* [Service Patterns](service_patterns.md)
 
