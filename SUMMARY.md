@@ -8,4 +8,5 @@
    * Active-Active
    * Active-Passive
    * Using Distributed Databases
+   * Failover scenarios
 
