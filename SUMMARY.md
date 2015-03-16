@@ -6,4 +6,5 @@
 * Reliability
    * Database Replication
    * Active-Active
+   * Active-Passive
 
