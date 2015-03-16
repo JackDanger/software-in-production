@@ -8,4 +8,5 @@
    * Active-Passive
    * Using Distributed Databases
    * Failover scenarios
+   * Types of Dependencies
 
