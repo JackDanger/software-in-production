@@ -9,4 +9,5 @@
    * Using Distributed Databases
    * Failover scenarios
    * Types of Dependencies
+* Avoiding Problems
 
