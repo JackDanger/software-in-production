@@ -10,4 +10,5 @@
    * Failover scenarios
    * Types of Dependencies
 * Avoiding Problems
+   * Dark Reads
 
